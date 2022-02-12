@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/alexlex7/goit-react-hw-01-components/static/css/main.7acaea2f.css",
+    "main.js": "/alexlex7/goit-react-hw-01-components/static/js/main.5c168c99.js",
+    "static/js/787.84e13687.chunk.js": "/alexlex7/goit-react-hw-01-components/static/js/787.84e13687.chunk.js",
+    "index.html": "/alexlex7/goit-react-hw-01-components/index.html",
+    "main.7acaea2f.css.map": "/alexlex7/goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
+    "main.5c168c99.js.map": "/alexlex7/goit-react-hw-01-components/static/js/main.5c168c99.js.map",
+    "787.84e13687.chunk.js.map": "/alexlex7/goit-react-hw-01-components/static/js/787.84e13687.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.5c168c99.js"
+  ]
+}
