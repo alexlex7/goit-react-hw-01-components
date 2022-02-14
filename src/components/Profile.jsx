@@ -5,7 +5,9 @@ export default function Profile({
   tag,
   location,
   avatar,
-  stats: { followers, views, likes },
+  followers,
+  views,
+  likes,
 }) {
   return (
     <div className="profile">
@@ -35,12 +37,11 @@ export default function Profile({
 }
 
 Profile.propTypes = {
-  userName: PropTypes.string,
-  tag: PropTypes.string,
-  location: PropTypes.string,
-  avatar: PropTypes.string,
-  stats: PropTypes.object,
-  followers: PropTypes.number,
-  views: PropTypes.number,
-  likes: PropTypes.number,
+  userName: PropTypes.string.isRequired,
+  tag: PropTypes.string.isRequired,
+  location: PropTypes.string.isRequired,
+  avatar: PropTypes.string.isRequired,
+  followers: PropTypes.number.isRequired,
+  views: PropTypes.number.isRequired,
+  likes: PropTypes.number.isRequired,
 };
