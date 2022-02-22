@@ -1,7 +1,6 @@
 import PropTypes from 'prop-types';
 import s from './Statistics.module.css';
 import getRandomColor from '../../js/randomColor';
-console.log('это стили ---', s);
 
 export default function Statistics({ title, stats }) {
   return (
