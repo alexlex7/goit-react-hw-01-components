@@ -1,4 +1,7 @@
 **Read in other languages: [Русский](README.md), [Polska](README.pl.md).**
+GitHub Pages
+
+https://alexlex7.github.io/goit-react-hw-01-components/ 
 
 # React homework template
 
