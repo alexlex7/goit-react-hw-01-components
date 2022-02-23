@@ -54,10 +54,7 @@
   font-weight: 700;
 }
 
-.tag {
-  margin-top: 5px;
-  color: grey;
-}
+.tag,
 .location {
   margin-top: 5px;
   color: grey;
